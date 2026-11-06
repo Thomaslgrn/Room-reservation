@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="RoomReservation.Api/RoomReservation.Api.csproj" />
+  <Project Path="RoomReservation.DataAccess/RoomReservation.DataAccess.csproj" />
+  <Project Path="RoomReservation.Dto/RoomReservation.Dto.csproj" />
+  <Project Path="RoomReservation.Entities/RoomReservation.Entities.csproj" />
+  <Project Path="RoomReservation.Services/RoomReservation.Services.csproj" />
+</Solution>
